@@ -73,9 +73,3 @@ The generated PDF includes:
 - To email PDFs or add charts, extend the script using `smtplib` and `matplotlib`.
 
 ---
-
-## 🏁 Completion Certificate
-
-This report serves as an official certificate of completion for your internship at **CODTECH**.
-
----
